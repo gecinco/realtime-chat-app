@@ -113,5 +113,3 @@ I'm studying best practices for scaling WebSockets. Currently works well for few
 ---
 
 Last update: 03/02/2026
-
-Estimated time to completion: ~2 weeks
